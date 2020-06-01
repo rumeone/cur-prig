@@ -1,0 +1,13 @@
+PART I 
+It was a pleasure to burn
+IT was a special pleasure to see things eaten, to see things 
+
+Количество символов в файле :95
+Количество слов в файле :20
+
+to = 3
+things = 2
+see = 2
+pleasure = 2
+a = 2
+was = 2
